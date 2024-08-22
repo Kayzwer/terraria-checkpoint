@@ -1,0 +1,10 @@
+{
+  "World": {
+    "Highkey_Shrublands.wld": false,
+    "Fancy_Latte_of_the_Spirits.wld": false,
+    "Odd_Flapper_of_Hamburgers.wld": true
+  },
+  "Player": {
+    "Kayzwer.plr": true
+  }
+}
