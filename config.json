@@ -11,7 +11,7 @@
   "WorldRollbacksToKeep": 2,
   "TeamNameplateDistance": 2000,
   "MultiplayerNPCSmoothingRange": 300,
-  "VolumeSound": 1.0,
+  "VolumeSound": 0.0,
   "VolumeAmbient": 0.0,
   "VolumeMusic": 0.0,
   "UnlockMusicSwap": false,
